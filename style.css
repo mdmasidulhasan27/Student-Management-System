@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    align-self: center;
+  }
+  
+  .title-bar {
+    text-align: center;
+    text-decoration-color: rgb(00, 96, 55);
+  }
+
+  .mid-div {
+    padding: 2%;
+    background-color: rgb(2, 199, 199);
+    transition: 0.5s;
+  }
+
+  .form-div {
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(202, 199, 199);
+  }
+  
+  .lav {
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .header {
+    padding: 10px;
+    border-radius: 5px;
+    height: 3%;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    color: white; 
+  }
+
+  .right-side{
+    padding: 1%;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 5px;
+    height: 75%;
+    width: 80%;
+    background-color: whitesmoke;
+    position: fixed;
+    left: 15%;
+    top:18%;
+    color: red;
+    border: solid 1px black;
+  }
+
+  .show-data{
+    border-color: black;
+    border-radius: 2px;
+    padding: 2px;
+    color: rgb(#336611);
+  }
+
+  .button-style{
+    margin: 2px;
+    padding-right:10px; 
+    padding-left:10px;
+    padding-top:3px;
+    padding-bottom: 3px;
+  }
