@@ -268,7 +268,7 @@
 								</tr>
 								<tr>
 									<td>
-										<textarea rows="4" cols=25 class="button-style" name="remark">Good/Bad</textarea>
+										<textarea rows="4" cols=25 class="button-style" name="remark"></textarea>
 									</td>
 								</tr>
 								<tr>
